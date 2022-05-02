@@ -5,6 +5,7 @@
 * NeoVim
 * Alacritty
 * Maccy
+* 1Password
 
 Install:
 
